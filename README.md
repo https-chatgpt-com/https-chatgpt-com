@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**https-chatgpt-com/https-chatgpt-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository.
 
-Here are some ideas to get you started:
+### About this repo
+This special repository controls the content shown on my GitHub profile page. The previous template content was fully wrapped in an HTML comment, so almost nothing was visible to visitors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you'll find here
+- A short introduction
+- Current focus areas
+- Ways to connect
+
+### Current focus
+- 🔭 Building practical AI-assisted tools
+- 🌱 Learning more about scalable systems and developer workflows
+
+### Contact
+- 💬 Open an issue in one of my public repositories
+- 📫 Reach out through GitHub profile contact links
